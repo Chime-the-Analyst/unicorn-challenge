@@ -84,10 +84,26 @@ The fintech industry had both the highest funding and the highest valuation. The
 
     Valuation by industry
 
+### The continent with the most industries
+North America was the continent the most industries with a total of 558
+
+![image](https://user-images.githubusercontent.com/109159668/180644428-55111816-95f8-4e05-ad42-f7b0be09634f.png)
+
+    North Americas total industries
+
+![image](https://user-images.githubusercontent.com/109159668/180644448-04bdd079-1339-4404-96ae-58e0d3c59f6f.png)
+
+    World Map
+
+### Full Dashboard
+
+![image](https://user-images.githubusercontent.com/109159668/180644472-a2ff68a8-0e2e-4f1e-b442-2c5c7cce6dfe.png)
+
+    First page
+
+![image](https://user-images.githubusercontent.com/109159668/180644515-0424019c-2e75-462a-b009-33f119add784.png)
 
 
-
-
-
+    Second page
 
 
