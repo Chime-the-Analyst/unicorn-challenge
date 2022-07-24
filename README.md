@@ -54,6 +54,21 @@ The dataset was imported into power BI and I went ahead to transform it.The valu
 ### Total amount of funding and Total valuation
 The total amount of funding was $591.82bn while the total valuation was $3.71T
 
+![image](https://user-images.githubusercontent.com/109159668/180644267-280a728a-a771-43fb-9efe-d3a465a59f67.png)
+
+    Total valuation and funding
+
+### How has companies funding changed over the years?
+I noticed that companies were funded with around $5bn at most ,until 2010 where funding started to skyrocket and funding was at an all-time high in 2015 with over $100bn before it came back down in 2020.
+
+![image](https://user-images.githubusercontent.com/109159668/180644310-3a90fc91-b702-4e9c-8efb-5fcd2618680f.png)
+
+    Funding over the years
+
+### How the valuation of companies has changed over the years?
+The valuation of companies stayed at that $5bn range before increasing in year 2000 then skyrocketing in 2015 with companies reaching $600bn in valuation.
+
+![image](https://user-images.githubusercontent.com/109159668/180644329-51eb43b6-6e24-42da-9303-564f549b3704.png)
 
 
 
