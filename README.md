@@ -70,8 +70,19 @@ The valuation of companies stayed at that $5bn range before increasing in year 2
 
 ![image](https://user-images.githubusercontent.com/109159668/180644329-51eb43b6-6e24-42da-9303-564f549b3704.png)
 
+    Valuation over the years
 
+### Highest funding and Highest valuation
+I wanted to know the industry with the highest valuation and the companies with the highest funding and check whether it's the most funded companies that turned out to be the most valuable.
+The fintech industry had both the highest funding and the highest valuation. The fintech industry had a total funding of $108bn and its now valued at $882bn.
 
+![image](https://user-images.githubusercontent.com/109159668/180644377-6b77050a-ea13-4338-a809-13852c130fdc.png)
+
+    Funding by industry
+
+![image](https://user-images.githubusercontent.com/109159668/180644390-548b7210-01ca-43f9-859b-4d100495fb8e.png)
+
+    Valuation by industry
 
 
 
